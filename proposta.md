@@ -1,0 +1,2 @@
+# Mini 3 - Consumo de API
+Você e sua dupla devem implementar um servidor de APIs e um cliente que consuma dados dessa API. Utilizem as bibliotecas da linguagem Python que considerarem mais convenientes (FastAPI, Flask, Django etc.). O entregável deve ser apenas o link do repositório no GitHub de um dos integrantes, com a devida contribuição via pull requests.
