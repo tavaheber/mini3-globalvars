@@ -4,7 +4,7 @@ from flask import Flask, request, jsonify, abort
 
 app = Flask(__name__)
 
-DEBUG = False
+DEBUG = True
 
 db = sqlite3.connect(":memory:", check_same_thread=False)
 
